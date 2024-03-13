@@ -6,7 +6,7 @@
     <RootNamespace>Problem_Of_The_Day</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <StartupObject>Problem_Of_The_Day.Day1</StartupObject>
+	  <StartupObject>Problem_Of_The_Day.DAY4</StartupObject>
   </PropertyGroup>
 
 </Project>
