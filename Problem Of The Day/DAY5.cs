@@ -8,7 +8,7 @@ namespace Problem_Of_The_Day
 {
     //Largest subsquare surrounded by X
 
-    //problem link=>> https://www.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1
+    //problem link=>> https://www.geeksforgeeks.org/problems/largest-subsquare-surrounded-by-x0558/1 
 
     internal class DAY5
     {
