@@ -10,7 +10,7 @@ namespace Problem_Of_The_Day
     {
         //Minimize the Difference
 
-        //problem link =>> https://www.geeksforgeeks.org/problems/minimize-the-difference/1
+        //problem link =>> https://www.geeksforgeeks.org/problems/minimize-the-difference/1A
 
     }
     //class Solution
